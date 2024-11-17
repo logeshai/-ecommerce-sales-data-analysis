@@ -30,4 +30,4 @@ Reporting: Generated detailed reports and dashboards for easy interpretation.
 
 If you have any questions, feel free to reach out:
 
-- Email: gjvijay09@gmail.com
+- Email: logeshbalaji1205@.com
